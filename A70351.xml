@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Mayor's show being a description of the solemnity at the inauguration of the truly loyal and Right Honourable Sir William Prichard, Kt., Lord Mayor of the city of London, President of the Honorable Artillery-Company, and a member of the Worshipful Company of Merchant-Taylors : perform'd on Monday, Sept. XXX, 1682 : with several new loyal songs and catches.</title>
+            <author>Jordan, Thomas, 1612?-1685?</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70351</idno><idno type="EEBO-CITATION">11858481_49972</idno>
+  <idno type="VID">49972</idno>
+  <idno type="EEBO-PROQUEST">2264196841</idno>
+  
+            <idno type="STC">Wing J1044A</idno>
+            <idno type="STC">ESTC R16626</idno>
+            <idno type="OCLC">11858481</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49972)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:3 or 1528:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Mayor's show being a description of the solemnity at the inauguration of the truly loyal and Right Honourable Sir William Prichard, Kt., Lord Mayor of the city of London, President of the Honorable Artillery-Company, and a member of the Worshipful Company of Merchant-Taylors : perform'd on Monday, Sept. XXX, 1682 : with several new loyal songs and catches.</title>
+                  <author>Jordan, Thomas, 1612?-1685?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Burnel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pritchard, William, --  Sir, 1632?-1705.</term>
+               <term type="topical_term">Mayors --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49972:1"/>
+            <pb facs="tcp:49972:1"/>
+            <p>THE <hi>Lord Mayor's Show:</hi> BEING A Description of the Solemnity AT THE INAUGURATION <hi>Of the truly Loyal and Right Honourable</hi> Sir <hi>WILLIAM PRICHARD,</hi> K<seg rend="sup">t</seg>. LORD MAYOR of the City of LONDON, President of the Honourable <hi>Artillery-Company,</hi> and a Member of the Worshipful Company of MERCHANT-TAYLORS.</p>
+            <p>Perform'd on <hi>Monday,</hi> September <hi>XXX.</hi> 1682.</p>
+            <p>With several new Loyal <hi>Songs</hi> and <hi>Catches.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Burnel.</hi> 1682.
+<add>Gough London 122-24</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:49972:2"/>
+            <head>A Song made upon the Election of Sir <hi>William Prichard,</hi> to be Lord Mayor.</head>
+            <opener>To the Tune of <hi>Sawny.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <hi>LONDON</hi> is chang'd, and the Times are turn'd;</l>
+               <l>The <hi>Mayor</hi> and <hi>Sheriffs</hi> are brave and true▪</l>
+               <l>Poor <hi>Whigs!</hi> their Tricks and their Plots are scorn'd;</l>
+               <l>The Laws shall be free, and the King have his due.</l>
+               <l>What a noise and a din has here bin of late,</l>
+               <l>To hinder your Choice with idle debate?</l>
+               <l>Yet who can think the <hi>Whigs</hi> so great,</l>
+               <l>That only the <hi>Whigs</hi> can govern the State?</l>
+            </lg>
+            <lg>
+               <l>Then welcome Great <hi>Monarch,</hi> welcome again,</l>
+               <l>The real Joy of all true hearts;</l>
+               <l>This day shall shew how great you reign</l>
+               <l>In spite of Faction's busie Arts.</l>
+               <l>Health to your Princely Brother too,</l>
+               <l>As dear to Ʋs, as dear to You;</l>
+               <l>Let him appear, and <hi>Whigs</hi> look blew,</l>
+               <l>That others can better now govern the State.</l>
+            </lg>
+            <lg>
+               <l>And You my Lord, whose praise this Day</l>
+               <l>In story never shall decay,</l>
+               <l>Proceed with vigour, and once more</l>
+               <l>Patterns out-worn of Worth restore.</l>
+               <l>For you can do it, whose Great Soul▪</l>
+               <l>Is fitted for your High Controule,</l>
+               <l>To make the Cities Breaches whole:</l>
+               <l>So farewell poor <hi>Whigg,</hi> with their Livery Pole.</l>
+            </lg>
+         </div>
+         <div type="inaugural_procession_for_the_Lord_Mayor_of_London">
+            <pb n="1" facs="tcp:49972:2"/>
+            <head>
+               <hi>The</hi> LORD MAYORS <hi>Show.</hi>
+            </head>
+            <p>THE Persons appointed for the Service of the Day, meet about Seven of the Clock in the Morning at <hi>Merchant-Taylor</hi>'s<hi>-Hall,</hi> and are placed in the following order.
+<list>
+                  <item>I. The Master, Wardens, and Assistants, in Gowns faced with Foyns.</item>
+                  <item>II. The Livery, in Gowns faced with Budge and their Hoods.</item>
+                  <item>III. Divers Foyns Batchelors, in Gowns and Scarlet Hoods.</item>
+                  <item>IV. Thirty Budge Batchelors, in Gowns and Scarlet Hoods.</item>
+                  <item>V. Sixty Gentlemen Ushers, in Plush and some in Velvet Coats, each of them a Chain of Gold about his shoulders, and a white Staff in his Hand.</item>
+                  <item>VI. Thirty other Gentlemen, for carrying Banners and Colours, some of them being in Plush Coats, the other in Buff.</item>
+                  <item>VII. The Serjeant Trumpet, and Thirty Six Trumpets more, whereof Sixteen are His MAJESTIES, the other the Duke of <hi>YORK</hi>'s: The Serjeant Trumpet wearing not only a Scarf of the Lord Mayors Colours, allowed by his Lordship as his Fee, but also another of the Companies Colours.</item>
+                  <item>VIII. The Drum Major to His Majesty, wearing a Scarf of the Companies Colours cross his shoulders; Four more of His Majesties Drums and Fifes attend the Service, also Seven other Drums and two Fifes more, each of them (except His Majesties Servants) are habited in Buff-coloured Doublets, Black Breeches, and Scarfs about their wasts.</item>
+                  <item>IX. The two City Marshals, Riding each of them on Horseback, with six persons to attend them, with Scarfs and Colours of the Companies.</item>
+                  <item>X. The Foot Marshal and six Attendants, with like Scarfs and Colours.</item>
+                  <item>XI. The Master of Defence, with the same Scarf and Colours, having persons of his own Science to attend him.</item>
+                  <item>XII. Many poor Men Pensioners, accommodated with Gowns and Caps, each of them employed in bearing of Standards and Banners.</item>
+                  <pb n="2" facs="tcp:49972:3"/>
+                  <item> XIII. Divers other Pensioners, in green Gowns, red Sleeves and Caps, each of them carrying a Javelin in the one hand and a Target in the other, whereon is painted the Coat Armour of their Benefactors.</item>
+               </list>
+            </p>
+            <p>Being thus Ordered:<lb/> They are by the Foot Marshal divided into several Divisions, and ranked out by two and two, beginning with the Pensioners in Gowns, and in the Front of them placing the Companies Ensigns, four Drums and one Fife, which is the lowest and most inferiour Division.</p>
+            <p>In the Rere of them fall in four Drums and one Fife, after them the several Pensioners in Coats, bearing several Banners and Standards; after them four Trumpets; after the Supporters and Crest Ensigns of the Company, six Gentlemen Ushers; after them the Budg Batchelors, which conclude the next Division.</p>
+            <p>In the Rere of these fall six Trumpets; after them two Gentlemen, bearing two Banners, the one of the Cities, the other of the Com<g ref="char:EOLhyphen"/>panies Arms; after them follow eight Gentlemen Ushers, and then the Foyns Batchelors, which make up another Division.</p>
+            <p>After them two Gentlemen Ushers bearing two Banners; after them ten Gentlemen Ushers, habited as is set down before; and after them the Livery.</p>
+            <p>In the Rere of these fall other of the City Trumpets, and after them two Gentlemen bearing the Banners of the City and my Lord Mayor, and then the Gentlemen and the Court of Assistants; these conclude that Division.</p>
+            <p>In the Rere of them fall in four Drums and six Trumpets; after them three other Gentlemen bearing the Kings, Queens, and Cities Banners; and after them four Gentlemen Ushers; to follow them are appointed four Pages; and after them the Master and Wardens; which conclude all the Divisions.</p>
+            <p>In this Equipage they March from <hi>Merchant Taylor's-Hall</hi> to his Lordships House, beginning with the Pensioners, until the Marshal comes, and makes a halt at the Gate, 'till such time the Lord Mayor and Aldermen are mounted.</p>
+            <pb n="3" facs="tcp:49972:3"/>
+            <p> Which being done, the whole Body move towards <hi>Guild-Hall,</hi> and at <hi>Guild-Hall</hi> Gate the new Lord Mayor joyneth with the old Lord Mayor and his Attendants: So all of them march through <hi>King-street</hi> down to <hi>Three-Crane</hi> Wharf, and then the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men, and their Attendance, at the West end of the said Wharf take their Barge; the Court of Assistants, the Livery, and the Gentlemen Ushers take Barge at the East end. The Budge Batchelors and Foyns Batchelors, repair to places of refreshment.</p>
+            <p>The Lord Mayors, the <hi>Merchant Taylors,</hi> and the several Compa<g ref="char:EOLhyphen"/>nies Barges hasten to <hi>Westminster;</hi> and by the way his Lordship is saluted with several great Guns. His Lordship and the Aldermen, <hi>&amp;c.</hi> having a Lane made for them (after their Landing) pass on to <hi>Westmin<g ref="char:EOLhyphen"/>ster-hall,</hi> where his Lordship is Sworn; and after having seal'd some Writs, and perform'd some charitable Offices, he takes leave of the Lords and Barons of the Exchequer, <hi>&amp;c.</hi> and returns with the several Companies to his and their Barges.</p>
+            <p>His Lordship with the Companies that went with him to <hi>Westminster</hi> Land at <hi>Black Fryers,</hi> where his Lordship is saluted with three Vollies from the honourable <hi>Artillery-Company;</hi> after which the <hi>Artillery-Company</hi> lead the way along by the <hi>Fleet Ditch,</hi> and so up <hi>Ludgate-hill,</hi> through <hi>Paul</hi>'s <hi>Church-yard</hi> and <hi>Cheapside</hi> into <hi>King-street,</hi> being followed by the several Companies, Batchelors and Pensioner<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who are ordered and led by the Foot Marshal; in the Reer of whom follows my Lord Mayor, the Court of Aldermen, and Sheriffs. In <hi>King-street</hi> the <hi>Artillery-Company</hi> make a Lane for his Lordship, <hi>&amp;c.</hi> to pass to <hi>Guild-hall,</hi> (the several Companies doing the same as they come to their respective stands) and when his Lordship is past, they close and march to <hi>Guild-hall</hi> yard where they give his Lordship three more Vollies, and from thence march the next way to the <hi>Artillery</hi> Ground, the several Companies repairing to their respective Halls, where are provided very splendid and costly Dinners for their Entertainments.</p>
+            <pb n="4" facs="tcp:49972:4"/>
+            <p> While the Lord Mayor is at Dinner, he is entertained by one of the City Musick with some Loyal Songs, such as this:
+<q>
+                  <lg>
+                     <l>Let the Traytors Plot on 'till at last they'r undone,</l>
+                     <l>By hurting their brains to decoy us;</l>
+                     <l>We whose hearts are at rest, in our Loyalties blest,</l>
+                     <l>What <hi>Demon</hi> or Power can annoy us.</l>
+                  </lg>
+                  <lg>
+                     <l>Ambition like Wine, does the Senses Confound,</l>
+                     <l>And Treason's a damnable thing;</l>
+                     <l>Then let him that thinks well see his brimmer go round,</l>
+                     <l>And pray for the safety and life of the King.</l>
+                  </lg>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let <hi>Caesar</hi> live long, let <hi>Caesar</hi> live long,</hi>
+                     </l>
+                     <l>
+                        <hi>For ever be happy, and ever be young,</hi>
+                     </l>
+                     <l>
+                        <hi>And he that dares hope to change King for a Pope,</hi>
+                     </l>
+                     <l>
+                        <hi>Let him dye, whilst <hi>Caesar</hi> lives long.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>How happy are we when our thoughts are all free,</l>
+                     <l>And blest in a sacred Obedience,</l>
+                     <l>While the Politick Fool that's Ambitious to Rule,</l>
+                     <l>Still baukes at the Oath of Allegiance.</l>
+                  </lg>
+                  <lg>
+                     <l>He trembles and flees from his numerous foes,</l>
+                     <l>Like a Dear that the hunters surround,</l>
+                     <l>Whilst we hate all that would Monarchy depose,</l>
+                     <l>Make the joys of our heart like our Glasses abound.</l>
+                  </lg>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let <hi>Caesar</hi> live long, let <hi>Caesar</hi> live long,</hi>
+                     </l>
+                     <l>
+                        <hi>For ever be happy, and ever be young,</hi>
+                     </l>
+                     <l>
+                        <hi>And he that dares hope to change King for a Pope,</hi>
+                     </l>
+                     <l>
+                        <hi>Let him dye, whilst <hi>Caesar</hi> lives long.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <pb n="5" facs="tcp:49972:4"/>
+            <p> Or this,
+<q>
+                  <lg>
+                     <l>Live long the great <hi>Caesar,</hi> and long may he Reign,</l>
+                     <l>His Throne let the Sword of bright Justice sustain;</l>
+                     <l>And <hi>Jehova</hi> protect with his powerful Arm,</l>
+                     <l>And guard him secure from all dangers and harm;</l>
+                     <l>Of dazling Angels, let Legions sur-round,</l>
+                     <l>And let him with Conquests and Glory be Crown'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Let Majesty shine with its sparkling Rays,</l>
+                     <l>On his Sacred Head let the flourishing Bays,</l>
+                     <l>Of Triumph and honour, for ever be green,</l>
+                     <l>And let his proud Foes in Confusion be seen</l>
+                     <l>To fly from his face; let <hi>Rome</hi> no more dare,</l>
+                     <l>To send forth her Agents, a Prince to Insnare.</l>
+                  </lg>
+                  <lg>
+                     <l>In whom all the Graces are joyntly combin'd;</l>
+                     <l>Whom God as a Pattern, has set to Man-kind;</l>
+                     <l>But let both the <hi>Whigs</hi> and Jesuitical Train,</l>
+                     <l>Be silenc'd in Darkness, whilst <hi>Caesar</hi> does Reign:</l>
+                     <l>Oh! let his proud Foes be consum'd in their pride,</l>
+                     <l>Whilst under his Scepter we safely abide.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Or this new Song, which is set to an excellent Tune by Mr. <hi>Pursell.</hi>
+               <q>
+                  <lg>
+                     <l>Since the DƲKE is return'd we'le slight all the <hi>Whigs,</hi>
+                     </l>
+                     <l>And let them be hang'd for Politick Prigs;</l>
+                     <l>Both <hi>Presbyter Jack</hi> and all the old Crew,</l>
+                     <l>That lately design'd <hi>Forty One</hi> to renew:</l>
+                     <l>Make room for the Men that never deny'd</l>
+                     <l>To God save the <hi>King,</hi> and <hi>Duke</hi> they reply'd;</l>
+                     <l>Whose Loyalty ever was fixt with that zeal,</l>
+                     <l>Of rooting out Scbism and proud Common-weal:</l>
+                     <l>Then bring up a Bottle each Man in his place,</l>
+                     <l>'Tis a health to the DƲKE, Boy give me my Measure,</l>
+                     <l>The fuller the Glass is, the greater the Pleasure.</l>
+                  </lg>
+               </q>
+            </p>
+            <pb n="6" facs="tcp:49972:5"/>
+            <p> After the show, the <hi>Loyal</hi> Spectators entertain themselves with a Glass of Wine, drinking Healths to the Royal Family and Singing such <hi>Loyal</hi> Catches, as this:
+<q>
+                  <lg>
+                     <l>Here's a Health to the
+<list>
+                           <item>
+                              <hi>King</hi>
+                           </item>
+                           <item>
+                              <hi>Queen</hi>
+                           </item>
+                           <item>
+                              <hi>Duke</hi> &amp;c.</item>
+                        </list> down let it fall,</l>
+                     <l>There goes Ocean, ships and all;</l>
+                     <l>Drawer make hast and quickly provide</l>
+                     <l>A fresh supply to maintain this Tyde:</l>
+                     <l>Then let it go round without controul,</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis the
+<list>
+                           <item>
+                              <hi>King</hi>'s</item>
+                           <item>
+                              <hi>Queen</hi>'s</item>
+                           <item>
+                              <hi>Duke</hi>'s &amp;c.</item>
+                        </list> Health, drink off your Bowl.</l>
+                  </lg>
+                  <lg type="refrain">
+                     <stage>Cho.</stage>
+                     <l>And he that Drinks next is an honest Soul.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Or this,
+<q>
+                  <lg>
+                     <l>Come here's to the Man that lives quiet</l>
+                     <l>And follows his own occupation;</l>
+                     <l>That sawcily dares not to fly at</l>
+                     <l>The settled Estate of the Nation.</l>
+                  </lg>
+                  <lg>
+                     <l>That never in Faction took pleasure,</l>
+                     <l>Nor sign'd a seditious Petition;</l>
+                     <l>Whose Religion no Int'rest does measure,</l>
+                     <l>Whose heart ne're committed Misprision.</l>
+                  </lg>
+                  <lg>
+                     <l>But boldly dares own himself Loyal.</l>
+                     <l>To every Phanatical Rumper;</l>
+                     <l>And to all of the family Royal,</l>
+                     <l>Most freely will take off his Bumper.</l>
+                  </lg>
+               </q>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
